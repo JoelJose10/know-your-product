@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+openai
+qdrant-client
+langchain
+langchain-community
+pypdf
+python-docx
+pillow
+pytesseract
+
